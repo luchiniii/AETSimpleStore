@@ -1,8 +1,9 @@
 # Simple Shop
 
+Compose a shopping site using the Laravel and Vue
+
 ## Tasks
 
-+ Compose a shopping site using the Laravel and Vue
 + Display an index page that shows a paginated list of products
 + Create a page to add products
 + Create a page to add categories
