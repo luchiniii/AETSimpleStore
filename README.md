@@ -1,17 +1,17 @@
 # Simple Shop
 
-Compose a shopping site using the Laravel and Vue
+Create a marketplace site similar to Amazon
 
 ## Tasks
 
-+ Display an index page that shows a paginated list of products
-+ Create a page to add products
-+ Create a page to add categories
-+ Build details page that list description and price of the product
-+ Allow products to belong to a specific category
-+ Allow search of product by name and category
-+ Allow sorting by product by price and name
-+ Create a data seeder for products and categories
-+ Allow rating to be submitted for products
-+ Display the average rating for each product
++ Allow vendors to sign up to the site
++ Allow vendors to create products and sell them on the marketplace
++ Allow vendors to see the ratings of their products
 
++ Build a landing page that shows a paginated list of products
++ Build a details page that shows description, price, rating and category of a product
++ Allow search of product by name, category and vendor
++ Allow sorting by product by price and name
++ Allow rating to be submitted for products
+
++ Provide an easy way to seed data for all models
