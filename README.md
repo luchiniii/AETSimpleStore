@@ -10,6 +10,10 @@ Do not worry about authentication.
 
 Laravel should serve as your JSON API and Vue your frontend.
 
+The main idea is that there are two types of users, vendors and buyers. Vendors sell products on the site and Buyers come to the site to well...buy products. 
+
+Again, you don't have to worry about authentication or authorization. You can simply create pages that a Vendor or a Buyer would use on the site.
+
 ## Tasks
 
 1. Allow vendors to create products to sell on the marketplace
