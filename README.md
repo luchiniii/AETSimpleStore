@@ -4,7 +4,7 @@ Create a marketplace site similar to Amazon
 
 ## Tasks
 
-### Mandadtory
+### Mandatory
 
 1. Allow vendors to sign up to the site
 1. Allow vendors to create products and sell them on the marketplace
