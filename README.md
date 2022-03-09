@@ -25,3 +25,10 @@ Again, you don't have to worry about authentication or authorization. You can si
 1. Allow rating to be submitted for products
 1. Provide an easy way to seed data for all models
 
+## Setting up
+
+1. `composer install`
+2. `yarn` / `npm i`
+3. `yarn watch` / `npm run watch`
+4. `php artisan serve`
+5. Open browser to [http://localhost:8000](http://localhost:8000)
