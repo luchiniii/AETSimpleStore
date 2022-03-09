@@ -7,8 +7,8 @@ Create a marketplace site similar to Amazon
 ### Mandatory
 
 1. Allow vendors to sign up to the site
-1. Allow vendors to create products and sell them on the marketplace
-1. Build a landing page that shows a paginated list of products
+1. Allow vendors to create products to sell on the marketplace
+1. Build a simple landing page that shows a paginated list of products
 
 ## Optional
 
