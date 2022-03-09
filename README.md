@@ -1,20 +1,23 @@
 # Simple Shop
 
-Create a marketplace site similar to Amazon
+AET is building the next Amazon (not really...)!!!
+
+The project in this repo contains a basic laravel starter project with vue scaffolding.
+
+Your task is to complete at least 2 of the tasks below in 1-2 hours.
+
+Do not worry about authentication.
+
+Laravel should serve as your JSON API and Vue your frontend.
 
 ## Tasks
 
-### Mandatory
-
-1. Allow vendors to sign up to the site
 1. Allow vendors to create products to sell on the marketplace
 1. Build a simple landing page that shows a paginated list of products
+1. Allow vendors to see the ratings of their products
+1. Build a details page that shows description, price, rating and category of a product
+1. Allow search of product by name, category and vendor
+1. Allow sorting by product by price and name
+1. Allow rating to be submitted for products
+1. Provide an easy way to seed data for all models
 
-### Optional
-
-3. Allow vendors to see the ratings of their products
-4. Build a details page that shows description, price, rating and category of a product
-5. Allow search of product by name, category and vendor
-6. Allow sorting by product by price and name
-7. Allow rating to be submitted for products
-8. Provide an easy way to seed data for all models
