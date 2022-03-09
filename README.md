@@ -10,7 +10,7 @@ Create a marketplace site similar to Amazon
 1. Allow vendors to create products to sell on the marketplace
 1. Build a simple landing page that shows a paginated list of products
 
-## Optional
+### Optional
 
 3. Allow vendors to see the ratings of their products
 4. Build a details page that shows description, price, rating and category of a product
