@@ -48,3 +48,5 @@ running these commands the system will create
 - all products from vendor user 'A' will have 1 review from Buyer user 'A' and 1 review from Buyer user 'B'.
 
 ## list of avaliable routes:
+
+![availabe-routes](https://user-images.githubusercontent.com/2814231/158122771-aa688620-a4b9-4d82-8942-988a2da7d40d.png)
