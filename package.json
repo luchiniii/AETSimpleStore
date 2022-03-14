@@ -30,6 +30,7 @@
         "bootstrap-sass": "^3.4.1",
         "cross-env": "^5.2.1",
         "css-loader": "^3.5.3",
+        "vue-axios": "^3.4.1",
         "vuex": "^3.3.0"
     }
 }

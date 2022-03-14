@@ -32,3 +32,19 @@ Again, you don't have to worry about authentication or authorization. You can si
 3. `yarn watch` / `npm run watch`
 4. `php artisan serve`
 5. Open browser to [http://localhost:8000](http://localhost:8000)
+
+
+## For testing the changes:
+
+1. Run `php artisan migrate`
+2. Run `php artisan db:seed`
+
+running these commands the system will create 
+- 2 types of users (Buyer and Vendor).
+- 2 vendor users and 2 buyers users.
+- 2 product categories ('Cell Phones', 'Computers')
+- 10 products from Computer category for vendor user 'A'. 
+- 10 products from Cell Phone category for vendor user 'B'.
+- all products from vendor user 'A' will have 1 review from Buyer user 'A' and 1 review from Buyer user 'B'.
+
+## list of avaliable routes:
